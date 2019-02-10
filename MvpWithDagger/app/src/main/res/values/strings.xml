@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MvpWithDagger</string>
+    <string name="dagger_title">Dagger 2</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="invalid_user">Usuario Invalido</string>
+    <string name="welcome_to_your_profile">Estas en tu Profile</string>
+    <string name="name">Nombre</string>
+    <string name="age">Edad</string>
+    <string name="update">Actualizar</string>
+    <string name="log_out">Cerrar sesión</string>
+    <string name="next">Next Activity</string>
+    <string name="go_back_to_profile">Volver a perfil</string>
+    <string name="made_ws_request">Hacer petición web</string>
+</resources>

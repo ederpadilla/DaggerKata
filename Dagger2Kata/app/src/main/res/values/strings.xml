@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dagger2Kata</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="subcomponent_activity">Subcomponent Activity</string>
+</resources>
